@@ -322,6 +322,14 @@ alert('${1:msg}');
 prompt('${1:msg}');
 ```
 
+## Standard built-in objects
+
+### [pi] parseInt
+
+```javascript
+parseInt('${1:description}', '${2:10}');
+```
+
 ## Contributing
 
 1. Fork it!
